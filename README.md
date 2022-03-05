@@ -18,10 +18,17 @@
 
 ### Hello, I'm happylie 🌵🌵
 
-Good day!
+Have a Good day 🍀
 
 # Github Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=happylie&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happylie&hide_border=true&layout=compact&theme=dracula" align="left" style="width: 48%" />
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=happylie&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happylie&hide_border=true&layout=compact&theme=dracula" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table>  
+<br/>  
