@@ -6,15 +6,13 @@
 </div>
 <div>
   <a href="https://github.com/happylie" target="_blank" rel="noopener noreferrer">
-    <img src=https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white alt=github />
   </a>
-  &nbsp;
   <a href="https://www.facebook.com/happylie.blog" target="_blank" rel="noopener noreferrer">
-    <img src=https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white alt=facebook />
   </a>
-  &nbsp;
   <a href="https://happylie.tistory.com/" target="_blank" rel="noopener noreferrer">
-    <img src=https://img.shields.io/badge/tistory-orange?style=for-the-badge&logo=tistory&logoColor=white alt=tistory style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/tistory-orange?style=for-the-badge&logo=tistory&logoColor=white alt=tistory />
   </a>
 </div>
 
